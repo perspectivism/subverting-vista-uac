@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toolkit", "ApplicationLoaderService\Toolkit.csproj", "{8A1B371A-F673-433E-9763-E508EE68C4DE}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "LoaderServiceSetup", "LoaderServiceSetup\LoaderServiceSetup.vdproj", "{D19C0AA1-92A4-48C4-BFB5-80089C231C49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A1B371A-F673-433E-9763-E508EE68C4DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A1B371A-F673-433E-9763-E508EE68C4DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A1B371A-F673-433E-9763-E508EE68C4DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A1B371A-F673-433E-9763-E508EE68C4DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D19C0AA1-92A4-48C4-BFB5-80089C231C49}.Debug|Any CPU.ActiveCfg = Debug
+		{D19C0AA1-92A4-48C4-BFB5-80089C231C49}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
